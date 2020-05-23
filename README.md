@@ -17,3 +17,7 @@ Add deployment text
 ## How to Contribute
 
 Add how to contribute text 
+
+### Copyright
+
+copyright notice
