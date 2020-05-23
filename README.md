@@ -16,7 +16,7 @@ Add deployment text
 
 ## How to Contribute
 
-Add how to contribute text 
+Add how to contribute text Please fork repository then submit pull request for review
 
 ### Copyright
 
