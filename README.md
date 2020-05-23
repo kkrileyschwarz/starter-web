@@ -20,4 +20,4 @@ Add how to contribute text Please fork repository then submit pull request for r
 
 ### Copyright
 
-copyright notice
+2020 Git.Training Copyright all rights reserved
